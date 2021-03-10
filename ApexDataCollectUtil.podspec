@@ -84,7 +84,6 @@ Pod::Spec.new do |spec|
   spec.vendored_frameworks = "ApexDataCollectUtil_iOS.framework"
 
 
-
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
   #  CocoaPods is smart about how it includes source code. For source files
